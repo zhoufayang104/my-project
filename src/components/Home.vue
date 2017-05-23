@@ -1,6 +1,8 @@
 <template>
   <div class="Home">
+    <Tabbar>
 
+    </Tabbar>
   </div>
 </template>
 <script>
